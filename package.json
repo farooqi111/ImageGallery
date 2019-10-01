@@ -2,7 +2,7 @@
   "name": "pics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://farooqi111.github.io/Image-Gallery/",
+  "homepage": "https://farooqi111.github.io/pics/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.1.1",
